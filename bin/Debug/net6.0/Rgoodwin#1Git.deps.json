@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Rgoodwin#1Git/1.0.0": {
+        "runtime": {
+          "Rgoodwin#1Git.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rgoodwin#1Git/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
