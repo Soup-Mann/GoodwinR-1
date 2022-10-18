@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rsgoo\\Desktop\\Codestack\\LevelOne\\Rgoodwin#1Git\\Rgoodwin#1Git.csproj",
+      "projectUniqueName": "C:\\Users\\rsgoo\\Desktop\\Codestack\\LevelOne\\GoodwinR#1\\Rgoodwin#1Git.csproj",
       "projectName": "Rgoodwin#1Git",
-      "projectPath": "C:\\Users\\rsgoo\\Desktop\\Codestack\\LevelOne\\Rgoodwin#1Git\\Rgoodwin#1Git.csproj",
+      "projectPath": "C:\\Users\\rsgoo\\Desktop\\Codestack\\LevelOne\\GoodwinR#1\\Rgoodwin#1Git.csproj",
       "packagesPath": "C:\\Users\\rsgoo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rsgoo\\Desktop\\Codestack\\LevelOne\\Rgoodwin#1Git\\obj\\",
+      "outputPath": "C:\\Users\\rsgoo\\Desktop\\Codestack\\LevelOne\\GoodwinR#1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rsgoo\\AppData\\Roaming\\NuGet\\NuGet.Config"
